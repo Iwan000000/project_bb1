@@ -2,7 +2,7 @@
 
 1. Клонируйте репозиторий: 
 
-    git clone https://github.com/Iwan000000/task_bb1.git
+    git clone https://github.com/Iwan000000/project_bb1
 
 2. Создайте виртуальное окружение: 
 
