@@ -196,5 +196,6 @@ class TestProductScraper(unittest.TestCase):
         self.assertEqual(product_data, expected_product_data)
 
 
+
 if __name__ == '__main__':
     unittest.main()
